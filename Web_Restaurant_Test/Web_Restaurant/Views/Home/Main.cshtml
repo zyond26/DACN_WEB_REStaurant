@@ -1,0 +1,132 @@
+﻿@{
+    ViewBag.Title = "Trang Chính";
+}
+<section class="hero-banner">
+    <div class="container">
+        <h1>Chào mừng đến với Nhà Hàng ABC</h1>
+        <p>Trải nghiệm ẩm thực đỉnh cao với các món ăn được chế biến từ nguyên liệu tươi ngon nhất.</p>
+        <a href="@Url.Action("Menu", "Menu")" class="btn">Khám Phá Thực Đơn</a>
+    </div>
+</section>
+
+<section class="featured-offers">
+    <div class="container">
+        <h2>Ưu Đãi Nổi Bật</h2>
+        <div class="offers-grid">
+            <div class="offer-item">
+                <img src="~/images/discount.jpg" alt="Ưu đãi 1" />
+                <h3>Giảm giá 20%</h3>
+                <p>Giảm giá 20% cho mọi món ăn.</p>
+            </div>
+            <div class="offer-item">
+                <img src="~/images/free.jpg" alt="Ưu đãi 2" />
+                <h3>Món ăn miễn phí</h3>
+                <p>Đặt 2 tặng 1 cho mọi món ăn.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    /* Hero Banner */
+    .hero-banner {
+        background: url('~/images/hero.jpg') center/cover no-repeat;
+        color: #fff;
+        text-align: center;
+        padding: 120px 20px;
+        position: relative;
+    }
+
+        .hero-banner::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5); /* Làm tối nền */
+        }
+
+        .hero-banner .container {
+            position: relative;
+            z-index: 2;
+        }
+
+        .hero-banner h1 {
+            font-size: 50px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .hero-banner p {
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+
+    .btn {
+        background: linear-gradient(45deg, #ff9900, #ff6600);
+        color: white;
+        padding: 12px 25px;
+        border-radius: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+        transition: all 0.3s;
+        display: inline-block;
+    }
+
+        .btn:hover {
+            background: linear-gradient(45deg, #ff6600, #ff3300);
+            transform: scale(1.05);
+        }
+
+    /* Featured Offers */
+    .featured-offers {
+        background-color: #f8f8f8;
+        padding: 60px 0;
+        text-align: center;
+    }
+
+    .offers-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .offer-item {
+        background: white;
+        border-radius: 10px;
+        overflow: hidden;
+        max-width: 300px;
+        text-align: center;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+        .offer-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .offer-item img {
+            width: 100%;
+            height: 200px; /* Giữ kích thước đồng đều */
+            object-fit: cover; /* Cắt ảnh để vừa khung */
+            border-bottom: 4px solid #ff9900;
+        }
+
+
+        .offer-item h3 {
+            font-size: 22px;
+            color: #ff6600;
+            white-space: nowrap; /* Ngăn tiêu đề quá dài */
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .offer-item p {
+            height: 50px; /* Định rõ chiều cao để đồng đều */
+            overflow: hidden;
+        }
+
+</style>

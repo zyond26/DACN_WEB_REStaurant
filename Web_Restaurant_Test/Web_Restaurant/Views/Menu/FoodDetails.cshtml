@@ -1,0 +1,105 @@
+﻿@model WebRestaurant.Models.FoodItem
+@{
+    ViewBag.Title = "Chi Tiết Món Ăn";
+}
+<section class="food-details-page">
+    <div class="container">
+        <div class="details-grid">
+            <!-- Ảnh món ăn -->
+            <div class="image-gallery">
+                <div class="main-image">
+                    <img id="mainImage" src="@Model.ImageUrl" alt="@Model.Name" />
+                </div>
+                <div class="thumbs">
+                    <img src="@Model.ImageUrl" alt="Thumb 1" onclick="changeImage(this)" />
+                    <img src="~/images/extra1.jpg" alt="Thumb 2" onclick="changeImage(this)" />
+                    <img src="~/images/extra2.jpg" alt="Thumb 3" onclick="changeImage(this)" />
+                </div>
+            </div>
+
+            <!-- Thông tin món ăn -->
+            <div class="food-info">
+                <h2>@Model.Name</h2>
+                <p>@Model.Description</p>
+                <p class="price">💰 Giá: @Model.Price.ToString("C")</p>
+
+                <!-- Thêm vào giỏ hàng -->
+                <form action="@Url.Action("AddToCart", "Cart")" method="post" class="add-cart-form">
+                    <input type="hidden" name="foodId" value="@Model.Id" />
+                    <input type="hidden" name="name" value="@Model.Name" />
+                    <input type="hidden" name="price" value="@Model.Price" />
+                    <label for="quantity">Số lượng:</label>
+                    <input type="number" id="quantity" name="quantity" value="1" min="1" />
+                    <button type="submit" class="btn">🛒 Thêm vào giỏ hàng</button>
+                </form>
+
+                <!-- Đánh giá -->
+                <section class="reviews">
+                    <h3>⭐ Đánh Giá Từ Khách Hàng</h3>
+                    <div class="review-item">
+                        <p><strong>Nguyễn Văn A:</strong> Món ăn rất ngon và đẹp mắt!</p>
+                    </div>
+                    <div class="review-item">
+                        <p><strong>Trần Thị B:</strong> Phục vụ tận tình, không gian sang trọng.</p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .details-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+    .image-gallery .main-image img {
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    .thumbs {
+        display: flex;
+        gap: 10px;
+        margin-top: 15px;
+    }
+
+        .thumbs img {
+            width: 80px;
+            height: 80px;
+            object-fit: cover;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+            .thumbs img:hover {
+                transform: scale(1.2);
+            }
+
+    .food-info .price {
+        font-size: 24px;
+        font-weight: bold;
+        margin: 15px 0;
+    }
+
+    .btn {
+        background: #ff5722;
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+        transition: 0.3s;
+    }
+
+        .btn:hover {
+            background: #e44d26;
+        }
+</style>
+
+<script>
+    function changeImage(element) {
+        document.getElementById("mainImage").src = element.src;
+    }
+</script>

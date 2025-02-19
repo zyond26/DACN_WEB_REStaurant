@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\menu\\fooddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\menu\\fooddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\order\\ordermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\order\\ordermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\order\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\order\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|c:\\users\\dieup\\source\\repos\\zyond26\\do_an_chuyen_nganh\\web_restaurant_test\\web_restaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D99E7A5-8220-4BA9-A1F8-7EFD45DA5E00}|Web_Restaurant\\Web_Restaurant.csproj|solutionrelative:web_restaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web_Restaurant\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:28:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Menu\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Menu\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Menu\\Menu.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Menu\\Menu.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:31:55.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Menu\\FoodDetails.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Menu\\FoodDetails.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Menu\\FoodDetails.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Menu\\FoodDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:32:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Home\\Main.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Home\\Main.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Home\\Main.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Home\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:31:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T00:27:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Web_Restaurant\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:28:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Web_Restaurant\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:30:47.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_Restaurant\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:27:25.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\FoodItem.cs",
+              "RelativeToolTip": "Web_Restaurant\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:24:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\CartItem.cs",
+              "RelativeToolTip": "Web_Restaurant\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:38:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web_Restaurant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T02:41:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Order\\OrderManagement.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Order\\OrderManagement.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Order\\OrderManagement.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Order\\OrderManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:34:05.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Order\\OrderStatus.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Order\\OrderStatus.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Order\\OrderStatus.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Order\\OrderStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:34:31.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:37:29.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:33:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T02:01:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:34:40.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Models\\Order.cs",
+              "RelativeToolTip": "Web_Restaurant\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:25:04.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Program.cs",
+              "RelativeToolTip": "Web_Restaurant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:37:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:41:07.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:32:52.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Web_Restaurant\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Web_Restaurant\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T02:03:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Web_Restaurant\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Web_Restaurant\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:37:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_Restaurant\\appsettings.json",
+              "ToolTip": "C:\\Users\\dieup\\source\\repos\\zyond26\\Do_An_Chuyen_Nganh\\Web_Restaurant_Test\\Web_Restaurant\\appsettings.json",
+              "RelativeToolTip": "Web_Restaurant\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T01:37:02.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

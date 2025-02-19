@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Giỏ Hàng";
+    var cartItems = ViewBag.CartItems as List<WebRestaurant.Models.CartItem>;
+}
+<section class="cart-page">
+    <div class="container">
+        <h2>Giỏ Hàng Của Bạn</h2>
+        <table class="cart-table">
+            <thead>
+                <tr>
+                    <th>Sản Phẩm</th>
+                    <th>Số Lượng</th>
+                    <th>Giá</th>
+                    <th>Tổng</th>
+                    <th>Hành Động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in cartItems)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price.ToString("C")</td>
+                        <td>@item.Total.ToString("C")</td>
+                        <td><a href="@Url.Action("RemoveFromCart", "Cart", new { foodId = item.FoodId })" class="btn btn-danger">Xóa</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="cart-summary">
+            <p><strong>Tổng Tiền: @ViewBag.CartTotal.ToString("C")</strong></p>
+            <a href="@Url.Action("Checkout", "Cart")" class="btn btn-success">Thanh Toán</a>
+        </div>
+    </div>
+</section>
+
+<style>
+    .cart-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+        .cart-table th, .cart-table td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+
+    .cart-summary {
+        text-align: right;
+        font-size: 20px;
+    }
+</style>

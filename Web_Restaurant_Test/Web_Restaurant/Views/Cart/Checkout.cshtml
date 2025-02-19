@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Thanh Toán";
+}
+<section class="checkout-page">
+    <div class="container">
+        <h2>Thông Tin Thanh Toán</h2>
+        <form method="post" action="@Url.Action("ConfirmOrder", "Order")" class="checkout-form">
+            <div class="form-group">
+                <label for="name">Họ và Tên:</label>
+                <input type="text" id="name" name="name" required />
+            </div>
+            <div class="form-group">
+                <label for="address">Địa Chỉ:</label>
+                <textarea id="address" name="address" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="phone">Số Điện Thoại:</label>
+                <input type="text" id="phone" name="phone" required />
+            </div>
+            <div class="form-group payment-methods">
+                <label>Phương Thức Thanh Toán:</label><br />
+                <input type="radio" id="cod" name="payment" value="COD" checked /> <label for="cod">COD</label>
+                <input type="radio" id="e-wallet" name="payment" value="e-wallet" /> <label for="e-wallet">Ví điện tử</label>
+                <input type="radio" id="credit-card" name="payment" value="credit-card" /> <label for="credit-card">Thẻ tín dụng</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Xác Nhận Thanh Toán</button>
+        </form>
+    </div>
+</section>
+
+<style>
+    .checkout-form {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+    .payment-methods input {
+        margin-right: 5px;
+    }
+</style>

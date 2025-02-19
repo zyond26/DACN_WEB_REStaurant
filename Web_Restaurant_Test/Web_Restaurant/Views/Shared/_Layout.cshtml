@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title - Nhà Hàng ABC</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        /* Wrapper bao bọc toàn bộ trang, tạo khoảng trống dưới cho footer */
+        .wrapper {
+            min-height: 100%;
+            position: relative;
+            padding-bottom: 80px; /* Điều chỉnh theo chiều cao footer thực tế */
+        }
+        /* Footer cố định ở dưới cùng */
+        .main-footer {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #222;
+            color: #ccc;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        @Html.Partial("_Header")
+        <main class="container">
+            @RenderBody()
+        </main>
+        @Html.Partial("_Footer")
+    </div>
+    <script src="~/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cache
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cs
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\appsettings.Development.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\appsettings.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.runtime.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.exe
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.deps.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.runtimeconfig.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.dll
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.pdb
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_Restaurant.props
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_Restaurant.props
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_Restaurant.props
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\scopedcss\bundle\Web_Restaurant.styles.css
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Web_Restaurant.bundle.scp.css
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.dll
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\refint\Web_Restaurant.dll
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.pdb
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\Web_Restaurant\Web_Restaurant\obj\Debug\net8.0\ref\Web_Restaurant.dll
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.Development.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.runtime.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.exe
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.deps.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.runtimeconfig.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.dll
+E:\Study\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.pdb
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfoInputs.cache
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfo.cs
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.csproj.CoreCompileInputs.cache
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cache
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cs
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_Restaurant.props
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_Restaurant.props
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_Restaurant.props
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\bundle\Web_Restaurant.styles.css
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Web_Restaurant.bundle.scp.css
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.dll
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\refint\Web_Restaurant.dll
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.pdb
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.genruntimeconfig.cache
+E:\Study\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\ref\Web_Restaurant.dll
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.Development.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.runtime.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.endpoints.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.exe
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.deps.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.runtimeconfig.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.dll
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.pdb
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfoInputs.cache
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfo.cs
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.csproj.CoreCompileInputs.cache
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.MvcApplicationPartsAssemblyInfo.cache
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cache
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cs
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\bundle\Web_Restaurant.styles.css
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Web_Restaurant.bundle.scp.css
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_Restaurant.props
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_Restaurant.props
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_Restaurant.props
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.dll
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\refint\Web_Restaurant.dll
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.pdb
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.genruntimeconfig.cache
+D:\study\ky5\cong nghe lap trinh web\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\ref\Web_Restaurant.dll
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.runtime.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.endpoints.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.exe
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.deps.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.runtimeconfig.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.dll
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.pdb
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfoInputs.cache
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfo.cs
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cache
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cs
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\bundle\Web_Restaurant.styles.css
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Web_Restaurant.bundle.scp.css
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_Restaurant.props
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_Restaurant.props
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_Restaurant.props
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.dll
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\refint\Web_Restaurant.dll
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.pdb
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.genruntimeconfig.cache
+C:\Users\dieup\Documents\Zalo Received Files\Web_Restaurant_Test\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\ref\Web_Restaurant.dll
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\appsettings.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.endpoints.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.staticwebassets.runtime.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.exe
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.deps.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.runtimeconfig.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.dll
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\bin\Debug\net8.0\Web_Restaurant.pdb
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfoInputs.cache
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.AssemblyInfo.cs
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cache
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.RazorAssemblyInfo.cs
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\bundle\Web_Restaurant.styles.css
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Web_Restaurant.bundle.scp.css
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Web_Restaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_Restaurant.props
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_Restaurant.props
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_Restaurant.props
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.dll
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\refint\Web_Restaurant.dll
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.pdb
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\Web_Restaurant.genruntimeconfig.cache
+C:\Users\dieup\source\repos\zyond26\Do_An_Chuyen_Nganh\Web_Restaurant_Test\Web_Restaurant\obj\Debug\net8.0\ref\Web_Restaurant.dll

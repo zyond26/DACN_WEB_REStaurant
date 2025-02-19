@@ -1,0 +1,65 @@
+/* Hero Banner */
+.hero-banner {
+    background: url('~/images/hero.jpg') center/cover no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+    .hero-banner h1 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+
+    .hero-banner p {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+.btn {
+    background-color: #ff9900;
+    color: #fff;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    transition: background-color 0.3s;
+}
+
+    .btn:hover {
+        background-color: #e68a00;
+    }
+
+/* Featured Offers */
+.featured-offers {
+    background-color: #fff;
+    padding: 60px 0;
+}
+
+.offers-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.offer-item {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+    .offer-item img {
+        width: 100%;
+    }
+
+    .offer-item h3 {
+        margin: 15px 0 5px;
+    }
+
+    .offer-item p {
+        margin: 0 15px 15px;
+    }

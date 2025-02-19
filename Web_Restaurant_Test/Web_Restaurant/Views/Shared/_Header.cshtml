@@ -1,0 +1,71 @@
+﻿<header class="main-header">
+    <div class="header-content">
+        <div class="logo">
+            <a href="@Url.Action("Main", "Home")">Nhà Hàng ABC</a>
+        </div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="@Url.Action("Main", "Home")">Trang Chủ</a></li>
+                <li><a href="@Url.Action("Menu", "Menu")">Thực Đơn</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Liên Hệ</a></li>
+                <li><a href="@Url.Action("Cart", "Cart")">Giỏ Hàng</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<style>
+    /* Header */
+    .main-header {
+        background-color: #333;
+        padding: 15px;
+        color: white;
+        text-align: center;
+    }
+
+    /* Container */
+    .header-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        margin: auto;
+        flex-wrap: wrap; /* ✅ Tự động xuống dòng khi không đủ chỗ */
+    }
+
+    /* Logo */
+    .logo a {
+        font-size: 24px;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+    }
+
+    /* Menu */
+    .main-nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap; /* ✅ Menu tự động xuống dòng khi không đủ chỗ */
+        justify-content: center; /* Căn giữa khi xuống dòng */
+    }
+
+    .main-nav li {
+        margin: 10px; /* Tạo khoảng cách giữa các mục */
+    }
+
+    .main-nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+        display: block;
+        transition: 0.3s;
+    }
+
+        /* Hiệu ứng khi di chuột vào menu */
+        .main-nav a:hover {
+            background-color: #555;
+            border-radius: 5px;
+        }
+</style>
